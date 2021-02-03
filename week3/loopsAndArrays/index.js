@@ -36,9 +36,3 @@ for (i =0; i < 101; i++){
     i %  2 == 0 ? $Result = "Even" : $Result = "Odd";
     console.log($Result)
 }
-var numbers = [45, 4, 9, 16, 25];
-var allOver18 = numbers.every(myFunction);
-
-function myFunction(45, allOver18, numbers){
-    return 45 > 18;
-}
