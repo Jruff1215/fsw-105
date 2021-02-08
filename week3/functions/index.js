@@ -4,8 +4,7 @@ function add(a, b){
 var sum = add(1, 2); {
     console.log(sum)
 }
-function number(a, b, c) {
-}
+
 function getMaxNumber(a, b, c){
     return Math.max(a, b, c)
 }
