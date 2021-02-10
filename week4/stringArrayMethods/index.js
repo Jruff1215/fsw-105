@@ -1,5 +1,5 @@
 function capitalizeAndLowercase(A, b){
-    return STRING + string
+    return b + c
 }
 var a ="Hello"
 var b = a.toUpperCase();
